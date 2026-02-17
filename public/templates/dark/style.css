@@ -1,0 +1,9 @@
+/* Dark Template Styles - Overrides */
+.glass-panel {
+    background: rgba(0, 0, 0, 0.5) !important;
+    border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+body {
+    background: #1a1a2e !important; /* Solid dark background overriding gradient */
+    animation: none !important;
+}
