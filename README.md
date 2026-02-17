@@ -9,9 +9,6 @@ A modern, interactive dashboard for Issabel Call Center management.
 - Real-time statistics (Mock/Database).
 
 ## Installation
-1. Upload files to `/var/www/html/dashboard`.
-2. Ensure `public/templates` is writable.
-3. Access via `http://server-ip/dashboard/public`.
-
-## License
-Owned by Wasel for Information Technology.
+1. Clone the repository.
+2. Configure database settings in `app/Config/config.php`.
+3. Ensure your web server points to the `public` directory.
